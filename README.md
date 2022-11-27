@@ -1,3 +1,1 @@
 # Image from the interface
-
-
