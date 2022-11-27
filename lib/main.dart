@@ -21,10 +21,10 @@ class lab3 extends StatelessWidget {
     return Scaffold(
      
       body:Stack(children: [Column(children: [Expanded(child: Row(
-        children: [Expanded(child: Container(child: Image.asset(fit: BoxFit.fill,"images/image1.png"),
+        children: [Expanded(child: Container(child: Image.asset(fit: BoxFit.fill,"images/image1.png"),height: MediaQuery.of(context).size.height/2,width: MediaQuery.of(context).size.width/2,
         )
         ),
-        Expanded(child: Container(child: Image.asset(fit: BoxFit.fill,"images/image2.png"),))
+        Expanded(child: Container(child: Image.asset(fit: BoxFit.fill,"images/image2.png"),height: MediaQuery.of(context).size.height/2,width: MediaQuery.of(context).size.width/2,))
         ],
       )
       ),
@@ -33,9 +33,9 @@ class lab3 extends StatelessWidget {
 
 Expanded(child: Row(
         children: [Expanded(child: Container(child: Image.asset(fit: BoxFit.fill,"images/image3.png"),
-        )
+       height: MediaQuery.of(context).size.height/2,width: MediaQuery.of(context).size.width/2, )
         ),
-        Expanded(child: Container(child: Image.asset(fit: BoxFit.fill,"images/image4.png"),))
+        Expanded(child: Container(child: Image.asset(fit: BoxFit.fill,"images/image4.png"),height: MediaQuery.of(context).size.height/2,width: MediaQuery.of(context).size.width/2,))
         ],
       )
       ),
