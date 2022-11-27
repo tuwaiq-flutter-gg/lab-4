@@ -1,3 +1,3 @@
-<p>Image from the interface</p>
+Image from the interface
 
 
