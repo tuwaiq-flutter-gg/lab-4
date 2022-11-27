@@ -1,8 +1,16 @@
-# lab-4
+# day
 
-#### Using Flutter to create this page below, you can be creative but you need to stick to the main objects in the image:
+A new Flutter project.
 
-Note: Name your app `lab3`
-Hint: Use `stack` to add the image in the middle
+## Getting Started
 
-<img width="346" alt="Screen Shot 2022-11-27 at 3 01 03 PM" src="https://user-images.githubusercontent.com/74452750/204134207-3497c86b-9523-4219-a23a-d86c1d82db40.png">
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
