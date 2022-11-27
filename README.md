@@ -6,3 +6,10 @@ Note: Name your app `lab3`
 Hint: Use `stack` to add the image in the middle
 
 <img width="346" alt="Screen Shot 2022-11-27 at 3 01 03 PM" src="https://user-images.githubusercontent.com/74452750/204134207-3497c86b-9523-4219-a23a-d86c1d82db40.png">
+
+---
+As you requested The name of the app is **lab3** and i used stack widget to put the picture and the container on the center above another pictures..
+
+Output below:
+
+![lab3](https://user-images.githubusercontent.com/81476727/204142778-a2e98561-9bc5-4692-80a1-cb45f56ef2fb.jpg)
